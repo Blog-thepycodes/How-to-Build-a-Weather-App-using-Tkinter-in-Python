@@ -1,0 +1,5 @@
+$ pip install tk
+$ pip install geopy
+$ pip install timezonefinder
+$ pip install requests
+$ pip install pytz
